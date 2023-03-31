@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/JHLEE/Desktop/KumkangApp/SteelSalesJungWon/app/src/main/res/layout/activity_main2.xml" value="0.22" />
+        <entry key="..\:/Users/JHLEE/Desktop/KumkangApp/SteelSalesJungWon/app/src/main/res/layout/activity_register.xml" value="0.1546875" />
+        <entry key="..\:/Users/JHLEE/Desktop/KumkangApp/SteelSalesJungWon/app/src/main/res/layout/activity_saleorder.xml" value="0.225" />
+        <entry key="..\:/Users/JHLEE/Desktop/KumkangApp/SteelSalesJungWon/app/src/main/res/layout/activity_search_available_part.xml" value="0.225" />
+        <entry key="..\:/Users/JHLEE/Desktop/KumkangApp/SteelSalesJungWon/app/src/main/res/layout/activity_splash_screen.xml" value="0.225" />
+        <entry key="..\:/Users/JHLEE/Desktop/KumkangApp/SteelSalesJungWon/app/src/main/res/layout/dialog_direct_price.xml" value="0.25" />
+        <entry key="..\:/Users/JHLEE/Desktop/KumkangApp/SteelSalesJungWon/app/src/main/res/layout/dialog_notice.xml" value="0.22" />
+        <entry key="..\:/Users/JHLEE/Desktop/KumkangApp/SteelSalesJungWon/app/src/main/res/layout/dialog_search_available_part.xml" value="0.25" />
+        <entry key="..\:/Users/JHLEE/Desktop/KumkangApp/SteelSalesJungWon/app/src/main/res/layout/dialog_search_by_keyin.xml" value="0.225" />
+        <entry key="..\:/Users/JHLEE/Desktop/KumkangApp/SteelSalesJungWon/app/src/main/res/layout/layout1.xml" value="0.225" />
+        <entry key="..\:/Users/JHLEE/Desktop/KumkangApp/SteelSalesJungWon/app/src/main/res/layout/layout2.xml" value="0.225" />
+        <entry key="..\:/Users/JHLEE/Desktop/KumkangApp/SteelSalesJungWon/app/src/main/res/layout/layout3.xml" value="0.225" />
+        <entry key="..\:/Users/JHLEE/Desktop/KumkangApp/SteelSalesJungWon/app/src/main/res/layout/layout4.xml" value="0.225" />
+        <entry key="..\:/Users/JHLEE/Desktop/KumkangApp/SteelSalesJungWon/app/src/main/res/layout/listview_saleorder_row.xml" value="0.24270833333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

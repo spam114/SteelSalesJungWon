@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">주문관리 중원</string>
+
+    <!--4445 테스트-->
+    <!--<string name="service_address">http://211.245.239.53:4445/Service/json/</string>
+    <string name="product_dbname">ERP_EonYang_Test</string>
+    <string name="KMURL">Default</string>
+    <string name="SDBN">Erp_EonYang_TEST</string>-->
+
+    <!--4446 테스트 최인규-->
+    <!--<string name="service_address">http://211.245.239.53:4446/Service/json/</string>
+    <string name="product_dbname">ERP_EonYang</string>
+    <string name="KMURL">Default</string>
+    <string name="SDBN">Erp_EonYang</string>-->
+
+    <!--3333 본디비-->
+    <string name="service_address">http://211.245.239.53:2226/Service/json/</string>
+    <string name="product_dbname">ERP_JungWon</string>
+    <string name="KMURL">Default</string>
+    <string name="SDBN">ERP_JungWon</string>
+
+
+    <string name="app_code">9</string>
+
+</resources>
